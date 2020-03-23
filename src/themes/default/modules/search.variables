@@ -59,6 +59,7 @@
 /* Description */
 @resultDescriptionFontSize: @relativeSmall;
 @resultDescriptionDistance: 0;
+@resultDescriptionDistance: 0;
 @resultDescriptionColor: @lightTextColor;
 
 /* Price */
